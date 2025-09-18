@@ -1,5 +1,6 @@
 # Ansys-Fluent-TS-Waves-Analysis
-Analysis and Observations of Ts waves has been done using ansys fluent 2025 R1
+Analysis and Observations of Ts waves has been done using ansys fluent 2025 R1 
+ 
 Title              : "Observation of Tollmien-Schliting Waves in simple 2D Flow"
 Objective          : "To study formation of T-S Waves under varying inlet velocitites"
 Background/Theory  : Analysis of 2D cross-sectional of a Circular pipe flow for the occurences of TS Waves
